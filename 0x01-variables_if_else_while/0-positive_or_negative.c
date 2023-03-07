@@ -4,8 +4,9 @@
 
 /**
  * main - main block
- * Discription: Get and print random number
- * and it it is posetive, negative, or zero
+ *
+ * Discription: print if the number is positive, negative or 0
+ *
  * Return: Always 0(Success)
  */
 int main(void)
@@ -16,7 +17,7 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)
 	{
-		printf("%i is posetive\n", n);
+		printf("%i is positive\n", n);
 	}
 	else if (n == 0)
 	{
