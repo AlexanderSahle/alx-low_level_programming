@@ -1,13 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
 /**
  * main - main block
  * Discription: Get and print random number
  * and it it is posetive, negative, or zero
- * Retern: Always 0(Success)
-*/
-
+ * Return: Always 0(Success)
+ */
 int main(void)
 {
 	int n;
