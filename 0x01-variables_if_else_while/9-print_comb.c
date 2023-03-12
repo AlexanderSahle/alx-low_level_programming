@@ -4,12 +4,12 @@
  * main - main block
  * Discription: prints all single number of base 10
  * starting from 0; followed by new line.
- * Retern: 0
-*/
+ * * Retern: 0
+ * */
+
 int main(void)
 {
-       	int c = 0;
-	
+	int c = 0;
 	while (c < 10)
 	{
 		putchar(48 + c);

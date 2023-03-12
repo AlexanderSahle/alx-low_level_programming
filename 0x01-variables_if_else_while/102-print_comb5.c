@@ -2,9 +2,9 @@
 #include <stdlib.h>
 /**
  * main - main block
- * Discription: write a proram that prints all posible
+ * Discription: write prog that prints all possible combn of two two-digit No.
  * different combination of the digits
- * Return
+ * Return: Always 0 (Success)
 */
 
 int main(void)
@@ -46,5 +46,5 @@ int main(void)
 		c++;
 	}
 	putchar('\n');
-        return (0);
+	return (0);
 }
