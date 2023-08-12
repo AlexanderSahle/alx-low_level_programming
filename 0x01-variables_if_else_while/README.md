@@ -1,6 +1,6 @@
 # 0x01. C - Variables, if, else, while
 ## At the end of this project, you are expected to have a know how and be able to explian
- * What are the arithmetic operators and how to use them
+ * What are the arithmetic operators and how to use them      
  * What are the logical operators (sometimes called boolean operators) and how to use them
  * What the the relational operators and how to use them
  * What values are considered TRUE and FALSE in C
@@ -14,4 +14,4 @@
  * How to use variables with the while loop
  * How to print variables using printf
  * What is the ASCII character set
- * What are the purpose of the gcc flags -m32 and -m64i
+ * What are the purpose of the gcc flags -m32 and -m64
