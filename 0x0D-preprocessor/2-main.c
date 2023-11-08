@@ -1,17 +1,18 @@
 #include <stdio.h>
 
-#ifndef _FILE_
-#define _FILE_
+#ifndef __FILE__
+#define __FILE__
 
 #endif
+
 /**
- * main - a function that call a file
+ * main - a function that print the name of the file
  *
  * Return: Always 0
  */
 
 int main(void)
 {
-	printf("%s\n", _FILE_);
+	printf("File : %s\n", __FILE__);
 	return (0);
 }
