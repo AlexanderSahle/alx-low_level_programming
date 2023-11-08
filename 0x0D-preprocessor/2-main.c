@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-#ifndef __FILE__
-#define __FILE__
-
-#endif
-
 /**
  * main - a function that print the name of the file
  *
